@@ -1,6 +1,6 @@
-## Website
-# zimcode.org repository
+# Website
+## zimcode.org repository
 
-Website: https://zimcode.org
-Hosting: portal.hostgator.com
-Files: https://drive.google.com/drive/folders/0B5ZW2BAR3zJCYkVnTWNtOUxtMHM?usp=sharing
+- Website: https://zimcode.org
+- Hosting: https://portal.hostgator.com 
+- Drive Files: https://drive.google.com/drive/folders/0B5ZW2BAR3zJCYkVnTWNtOUxtMHM?usp=sharing
